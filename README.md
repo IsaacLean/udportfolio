@@ -1,5 +1,6 @@
 # Note
-This is a website performance optimization project for [Udacity's Website Performance Optimization course](https://www.udacity.com/course/ud884).
+This is the final project for [Udacity's Website Performance Optimization course](https://www.udacity.com/course/ud884).
+
 The original source can be found from here: https://github.com/cameronwp/udportfolio
 
 ## Website Performance Optimization portfolio project
